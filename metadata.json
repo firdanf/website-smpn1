@@ -1,0 +1,6 @@
+{
+  "name": "SMPN 1 Bantarkalong",
+  "description": "Modern landing page for Junior High School SMPN 1 Bantarkalong, featuring an interactive facilities explorer, news filter grid, language switcher, academic sections, and a responsive contact system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
